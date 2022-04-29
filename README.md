@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whallo12
 - 👀 I’m interested in ... Data Analytics, Visualization, Machine Learning, Statistics 
-- 🌱 I’m currently learning ... Python, SQL, Tableau, Excel
+- 🌱 I’m currently learning ... R, SQL, Tableau, Excel
 - 💞️ I’m looking to collaborate on ... Any Platform Possible
 - 📫 How to reach me ... joewhallon@gmail.com
 
